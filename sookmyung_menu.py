@@ -4,7 +4,7 @@ import json
 import random
 
 # ✅ 카카오 API 설정
-API_KEY = "815a330dcfb69987a6c219836b68598c"
+API_KEY = "각자 받아온 API"
 headers = {"Authorization": f"KakaoAK {API_KEY}"}
 
 # ✅ 대상 지역의 중심 좌표
