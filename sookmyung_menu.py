@@ -3,10 +3,10 @@ import csv
 import json
 
 # ✅ 카카오 API 설정
-API_KEY = "815a330dcfb69987a6c219836b68598c"
+API_KEY = "API KEY"
 headers = {"Authorization": f"KakaoAK {API_KEY}"}
 
-# ✅ 청파동 중심 좌표 (더 정밀하게 조정됨)
+# 청파동 중심 좌표
 x, y = 126.96677012028513, 37.545067771838596
 query = "식당"
 
