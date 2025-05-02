@@ -1,8 +1,8 @@
 import requests
 
-KAKAO_API_KEY = "815a330dcfb69987a6c219836b68598c"
+KAKAO_API_KEY = "본인 API KEY"
 headers = {"Authorization": f"KakaoAK {KAKAO_API_KEY}"}
-query = "먼데이피크닉"  # 음식점 이름
+query = "식당이름"  # 음식점 이름
 
 url = "https://dapi.kakao.com/v2/local/search/keyword.json"
 params = {"query": query}
