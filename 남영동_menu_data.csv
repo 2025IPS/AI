@@ -3,10 +3,6 @@ place_name,menu_name,menu_price,address,url,allergy
 남영돈,탱글탱글 목살,19000원,서울 용산구 남영동 52-2,https://map.naver.com/p/search/%EB%82%A8%EC%98%81%EB%8F%88/place/19774046,고기
 남영돈,쫀득쫀득 가브리살,21000원,서울 용산구 남영동 52-2,https://map.naver.com/p/search/%EB%82%A8%EC%98%81%EB%8F%88/place/19774046,없음
 남영돈,아삭아삭 항정살,23000원,서울 용산구 남영동 52-2,https://map.naver.com/p/search/%EB%82%A8%EC%98%81%EB%8F%88/place/19774046,고기
-남영돈,잔치국수,7000원,서울 용산구 남영동 52-2,https://map.naver.com/p/search/%EB%82%A8%EC%98%81%EB%8F%88/place/19774046,밀
-남영돈,비빔쫄면,7000원,서울 용산구 남영동 52-2,https://map.naver.com/p/search/%EB%82%A8%EC%98%81%EB%8F%88/place/19774046,밀
-남영돈,계란찜,7000원,서울 용산구 남영동 52-2,https://map.naver.com/p/search/%EB%82%A8%EC%98%81%EB%8F%88/place/19774046,"달걀, 고기"
-남영돈,냉쫄면,8000원,서울 용산구 남영동 52-2,https://map.naver.com/p/search/%EB%82%A8%EC%98%81%EB%8F%88/place/19774046,밀
 오복함흥냉면,회냉면,12000원,서울 용산구 남영동 61-3,https://map.naver.com/p/entry/place/21427490,밀
 오복함흥냉면,비빔냉면,11000원,서울 용산구 남영동 61-3,https://map.naver.com/p/entry/place/21427490,밀
 오복함흥냉면,물냉면,11000원,서울 용산구 남영동 61-3,https://map.naver.com/p/entry/place/21427490,밀
@@ -20,7 +16,6 @@ place_name,menu_name,menu_price,address,url,allergy
 옛날감자전,해물파전,18000원,서울 용산구 남영동 33-2,https://map.naver.com/p/search/%EC%98%9B%EB%82%A0%EA%B0%90%EC%9E%90%EC%A0%84/place/20149514,달걀
 옛날감자전,매콤오돌뼈,19000원,서울 용산구 남영동 33-2,https://map.naver.com/p/search/%EC%98%9B%EB%82%A0%EA%B0%90%EC%9E%90%EC%A0%84/place/20149514,없음
 옛날감자전,감자전,15000원,서울 용산구 남영동 33-2,https://map.naver.com/p/search/%EC%98%9B%EB%82%A0%EA%B0%90%EC%9E%90%EC%A0%84/place/20149514,달걀
-옛날감자전,오징어감자전,17000원,서울 용산구 남영동 33-2,https://map.naver.com/p/search/%EC%98%9B%EB%82%A0%EA%B0%90%EC%9E%90%EC%A0%84/place/20149514,달걀
 옛날감자전,도토리묵김치볶음,17000원,서울 용산구 남영동 33-2,https://map.naver.com/p/search/%EC%98%9B%EB%82%A0%EA%B0%90%EC%9E%90%EC%A0%84/place/20149514,땅콩/대두
 옛날감자전,맑은황태탕,22000원,서울 용산구 남영동 33-2,https://map.naver.com/p/search/%EC%98%9B%EB%82%A0%EA%B0%90%EC%9E%90%EC%A0%84/place/20149514,없음
 조대포 남영본점,생삼겹살,14000원,서울 용산구 남영동 82-3,https://map.naver.com/p/entry/place/18137751,고기
@@ -46,7 +41,6 @@ place_name,menu_name,menu_price,address,url,allergy
 초원,양무침,9000원,서울 용산구 남영동 80-4,https://map.naver.com/p/search/%EC%B4%88%EC%9B%90/place/1319862091,없음
 초원,마늘국수,7000원,서울 용산구 남영동 80-4,https://map.naver.com/p/search/%EC%B4%88%EC%9B%90/place/1319862091,밀
 초원,무생채 비빔면,7000원,서울 용산구 남영동 80-4,https://map.naver.com/p/search/%EC%B4%88%EC%9B%90/place/1319862091,밀
-초원,내장탕,9000원,서울 용산구 남영동 80-4,https://map.naver.com/p/search/%EC%B4%88%EC%9B%90/place/1319862091,없음
 솥깨비,생돈체중 120kg 지리산 한돈모듬,39900원,서울 용산구 남영동 81-2,hhttps://map.naver.com/p/entry/place/1645663678,없음
 솥깨비,120시간 숙성 지리산 특수부위 모듬,42900원,서울 용산구 남영동 81-2,hhttps://map.naver.com/p/entry/place/1645663678,고기
 솥깨비,생돈체중 120kg 지리산 생삼겹,17000원,서울 용산구 남영동 81-2,hhttps://map.naver.com/p/entry/place/1645663678,고기
@@ -74,12 +68,10 @@ place_name,menu_name,menu_price,address,url,allergy
 이춘복참치 본점,점심메뉴) 혼마구로초밥,33000원,서울 용산구 남영동 85-1,https://map.naver.com/p/search/%EC%9D%B4%EC%B6%98%EB%B3%B5%EC%B0%B8%EC%B9%98/place/13575201,없음
 때가이르매 숙대점,말차산,10800원,서울 용산구 남영동 8-2,https://map.naver.com/p/entry/place/667716278,없음
 때가이르매 숙대점,어느날 티라미수에서 이끼가 자랐다,13000원,서울 용산구 남영동 8-2,https://map.naver.com/p/entry/place/667716278,없음
-때가이르매 숙대점,딸기치즈케이크 2호,62000원,서울 용산구 남영동 8-2,https://map.naver.com/p/entry/place/667716278,우유
 때가이르매 숙대점,망고딸기케이크 1호,55000원,서울 용산구 남영동 8-2,https://map.naver.com/p/entry/place/667716278,없음
 때가이르매 숙대점,망고딸기케이크 미니,39000원,서울 용산구 남영동 8-2,https://map.naver.com/p/entry/place/667716278,없음
 때가이르매 숙대점,생크림딸기케이크,9800원,서울 용산구 남영동 8-2,https://map.naver.com/p/entry/place/667716278,우유
-때가이르매 숙대점,딸기케이크 1호,52000원,서울 용산구 남영동 8-2,https://map.naver.com/p/entry/place/667716278,없음
-때가이르매 숙대점,4단 생크림딸기케이크2호,62000원,서울 용산구 남영동 8-2,https://map.naver.com/p/entry/place/667716278,우유
+때가이르매 숙대점,딸기케이크 1호,52000원,서울 용산구 남영동 8-2,https://map.naver.com/p/entry/place/667716278,우유
 때가이르매 숙대점,레몬케이크,8800원,서울 용산구 남영동 8-2,https://map.naver.com/p/entry/place/667716278,없음
 때가이르매 숙대점,말차숲,7500원,서울 용산구 남영동 8-2,https://map.naver.com/p/entry/place/667716278,없음
 때가이르매 숙대점,솔티드가나슈케익,8800원,서울 용산구 남영동 8-2,https://map.naver.com/p/entry/place/667716278,없음
@@ -92,10 +84,7 @@ place_name,menu_name,menu_price,address,url,allergy
 투썸플레이스 숙대입구역점,달고나카페라떼(R),6000원,서울 용산구 남영동 62-9,https://map.naver.com/p/entry/place/1545221892,우유
 투썸플레이스 숙대입구역점,콜드브루(R),4900원,서울 용산구 남영동 62-9,https://map.naver.com/p/entry/place/1545221892,없음
 투썸플레이스 숙대입구역점,스트로베리피치프라페(R),5800원,서울 용산구 남영동 62-9,https://map.naver.com/p/entry/place/1545221892,없음
-투썸플레이스 숙대입구역점,오렌지에이드,5500원,서울 용산구 남영동 62-9,https://map.naver.com/p/entry/place/1545221892,없음
-투썸플레이스 숙대입구역점,자몽에이드(R),5500원,서울 용산구 남영동 62-9,https://map.naver.com/p/entry/place/1545221892,없음
 골드버튼커피,리미티드 프로젝트(브루커피),6500원,서울 용산구 남영동 81-3,https://map.naver.com/p/entry/place/38420192h,없음
-골드버튼커피,민트레몬에이드&티,5000원,서울 용산구 남영동 81-3,https://map.naver.com/p/entry/place/38420192h,없음
 골드버튼커피,레드패션후르츠에이드,5000원,서울 용산구 남영동 81-3,https://map.naver.com/p/entry/place/38420192h,없음
 골드버튼커피,생라임 모히토(알코올/논알코올),8300원,서울 용산구 남영동 81-3,https://map.naver.com/p/entry/place/38420192h,없음
 골드버튼커피,코코크림라떼,6000원,서울 용산구 남영동 81-3,https://map.naver.com/p/entry/place/38420192h,우유
@@ -136,7 +125,7 @@ place_name,menu_name,menu_price,address,url,allergy
 범주,김부각 고추장 육회,20000원,서울 용산구 남영동 51-1,https://map.naver.com/p/search/%EB%B2%94%EC%A3%BC/place/1346644785,"땅콩/대두, 고기"
 범주,장어국수,26000원,서울 용산구 남영동 51-1,https://map.naver.com/p/search/%EB%B2%94%EC%A3%BC/place/1346644785,밀
 범주,문어숙회무침,18000원,서울 용산구 남영동 51-1,https://map.naver.com/p/search/%EB%B2%94%EC%A3%BC/place/1346644785,없음
-범주,우니 감태 크림림 파스타,23000원,서울 용산구 남영동 51-1,https://map.naver.com/p/search/%EB%B2%94%EC%A3%BC/place/1346644785,"밀, 우유"
+범주,우니 감태 크림 파스타,23000원,서울 용산구 남영동 51-1,https://map.naver.com/p/search/%EB%B2%94%EC%A3%BC/place/1346644785,"밀, 우유"
 범주,김치오뎅탕,23000원,서울 용산구 남영동 51-1,https://map.naver.com/p/search/%EB%B2%94%EC%A3%BC/place/1346644785,없음
 범주,명란 두부탕,21000원,서울 용산구 남영동 51-1,https://map.naver.com/p/search/%EB%B2%94%EC%A3%BC/place/1346644785,땅콩/대두
 범주,미나리 새우 전,16000원,서울 용산구 남영동 51-1,https://map.naver.com/p/search/%EB%B2%94%EC%A3%BC/place/1346644785,"달걀, 갑각류"
@@ -146,12 +135,11 @@ place_name,menu_name,menu_price,address,url,allergy
 헤도니즘,피클 인 남영,19000원,서울 용산구 남영동 94-1,https://map.naver.com/p/search/%ED%95%B4%EB%8F%84%EB%8B%88%EC%A6%98/place/1447074602,없음
 헤도니즘,메이크 너티,19000원,서울 용산구 남영동 94-1,https://map.naver.com/p/search/%ED%95%B4%EB%8F%84%EB%8B%88%EC%A6%98/place/1447074602,없음
 헤도니즘,프리지에,20000원,서울 용산구 남영동 94-1,https://map.naver.com/p/search/%ED%95%B4%EB%8F%84%EB%8B%88%EC%A6%98/place/1447074602,없음
-카라시,<런치> 와규커리,11000원,서울 용산구 남영동 122-3,hhttps://map.naver.com/p/search/%EC%B9%B4%EB%9D%BC%EC%8B%9C/place/1055528215,없음
-카라시,<런치>로스카츠 와규커리,14000원,서울 용산구 남영동 122-3,hhttps://map.naver.com/p/search/%EC%B9%B4%EB%9D%BC%EC%8B%9C/place/1055528215,없음
-카라시,<런치>에비카츠 와규커리,14000원,서울 용산구 남영동 122-3,hhttps://map.naver.com/p/search/%EC%B9%B4%EB%9D%BC%EC%8B%9C/place/1055528215,없음
-카라시,<런치>와규함바그 와규커리,14000원,서울 용산구 남영동 122-3,hhttps://map.naver.com/p/search/%EC%B9%B4%EB%9D%BC%EC%8B%9C/place/1055528215,없음
+카라시,(런치) 와규커리,11000원,서울 용산구 남영동 122-3,hhttps://map.naver.com/p/search/%EC%B9%B4%EB%9D%BC%EC%8B%9C/place/1055528215,없음
+카라시,(런치)로스카츠 와규커리,14000원,서울 용산구 남영동 122-3,hhttps://map.naver.com/p/search/%EC%B9%B4%EB%9D%BC%EC%8B%9C/place/1055528215,없음
+카라시,(런치)에비카츠 와규커리,14000원,서울 용산구 남영동 122-3,hhttps://map.naver.com/p/search/%EC%B9%B4%EB%9D%BC%EC%8B%9C/place/1055528215,없음
+카라시,(런치)와규함바그 와규커리,14000원,서울 용산구 남영동 122-3,hhttps://map.naver.com/p/search/%EC%B9%B4%EB%9D%BC%EC%8B%9C/place/1055528215,없음
 카라시,네기도로,18000원,서울 용산구 남영동 122-3,hhttps://map.naver.com/p/search/%EC%B9%B4%EB%9D%BC%EC%8B%9C/place/1055528215,없음
-카라시,단새우 사워크림,17000원,서울 용산구 남영동 122-3,hhttps://map.naver.com/p/search/%EC%B9%B4%EB%9D%BC%EC%8B%9C/place/1055528215,"갑각류, 우유"
 카라시,오뎅모리,12000원,서울 용산구 남영동 122-3,hhttps://map.naver.com/p/search/%EC%B9%B4%EB%9D%BC%EC%8B%9C/place/1055528215,없음
 카라시,조개술찜,14000원,서울 용산구 남영동 122-3,hhttps://map.naver.com/p/search/%EC%B9%B4%EB%9D%BC%EC%8B%9C/place/1055528215,없음
 카라시,치킨난반,13000원,서울 용산구 남영동 122-3,hhttps://map.naver.com/p/search/%EC%B9%B4%EB%9D%BC%EC%8B%9C/place/1055528215,고기
